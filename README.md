@@ -208,9 +208,9 @@ Este portafolio demuestra competencias en:
 
 ## Contacto
 
-- 📧 Email: *tu-email@gmail.com*
+- 📧 Email: *andres_j256@hotmail.com*
 - 💼 LinkedIn: *www.linkedin.com/in/jaime-ruiz-dorado*
-- 🌐 Portafolio: *tu-usuario.github.io/portafolio-datos-colombia*
+- 🌐 Portafolio: *github.com/jaimeproyecto26-afk/portafolio-datos-colombia*
 
 ---
 
